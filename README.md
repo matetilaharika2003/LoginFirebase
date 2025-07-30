@@ -2,16 +2,12 @@
 
 A simple authentication setup using **Firebase Authentication** that supports **Email/Password** and **Google Sign-In** methods.
 
----
-
 ## 🚀 Features
 
 - Sign up and login using **Email & Password**
 - Login with **Google Sign-In** using OAuth 2.0
 - Firebase Authentication dashboard for managing users
 - Realtime user registration and login tracking
-
----
 
 ## ✅ Summary
 
@@ -27,8 +23,6 @@ I have successfully set up **Firebase Authentication** in this project.
 
 This confirms the authentication setup is working as expected.
 
----
-
 ## 📸 Screenshots
 
 ### 1. Firebase Users
@@ -36,8 +30,6 @@ This confirms the authentication setup is working as expected.
 Shows registered users with Email/Password and Google.
 
 <img width="1916" height="1004" alt="Screenshot 2025-07-28 200502" src="https://github.com/user-attachments/assets/3022c47c-02ac-4492-ae3d-463ba681545e" />
-
----
 
 ### 2. Sign-in Methods
 
