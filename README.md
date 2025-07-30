@@ -1,4 +1,4 @@
-# 🔐 Firebase Authentication Project
+# 🔐 Firebase Authentication
 
 A simple authentication setup using **Firebase** that supports **Email/Password** and **Google Sign-In** methods.
 
