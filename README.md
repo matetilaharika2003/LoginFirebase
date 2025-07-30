@@ -1,6 +1,6 @@
 # 🔐 Firebase Authentication
 
-A simple authentication setup using **Firebase** that supports **Email/Password** and **Google Sign-In** methods.
+A simple authentication system built with **React.js** and **Firebase Authentication**, supporting **Email/Password** and **Google Sign-In** methods. This project demonstrates a secure and beginner-friendly login system using Firebase in a React environment.
 
 ## 🚀 Features
 
