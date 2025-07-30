@@ -17,7 +17,7 @@ I have successfully set up **Firebase Authentication** in this project.
 - 👥 Registered two users for testing:
   - One using **Email/Password**
   - One using **Google OAuth**
-- 📅 Both users were created and logged in on **July 28, 2025**, confirming successful login attempts.
+- 📅 Both users were created and logged in, confirming successful login attempts.
 - 📊 Verified user entries under **Authentication > Users** in the Firebase Console.
 - ⚙️ Confirmed that both sign-in providers are **Enabled** in **Authentication > Sign-in method**.
 
